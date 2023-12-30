@@ -1,10 +1,10 @@
 # attempt00 Visual Studio 2022
 # Railway Rerservation System
 
-#--------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------
 #   Author   M. Hamza Ijaz
 #   Dated :  30 - December - 2023
-#--------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------
 
 **Introduction**
 The Railway Reservation System is a software application developed using Visual Studio 2022 and Windows Forms. This report focuses on the ticket booking system within the Railway Reservation System, providing an overview of the system's design, features, and usage.
