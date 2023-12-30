@@ -2,8 +2,12 @@
 # Railway Rerservation System
 
 #------------------------------------------------
-  Author   M. Hamza Ijaz
-  Dated :  30 - December - 2023
+
+
+#  Author :  M. Hamza Ijaz
+#  Dated  :  30 - December - 2023
+
+  
 #------------------------------------------------
 
 
